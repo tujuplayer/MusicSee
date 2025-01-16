@@ -8,3 +8,5 @@ class MusicAnalyzerApp(App):
 
 if __name__ == '__main__':
     MusicAnalyzerApp().run()
+
+
